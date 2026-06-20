@@ -1,0 +1,13 @@
+# Ignore all CSV data files
+*.csv
+
+# Ignore other large data formats you might use
+*.xlsx
+*.xls
+*.parquet
+*.json
+*.db
+*.sqlite
+
+# Ignore the entire csv_files folder
+csv_files/
